@@ -8,17 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/osh1996/SeriesElasticActuator.git:MiraLink.groovy": [
-      "https://github.com/osh1996/SeriesElasticActuator.git",
-      "MiraLink.groovy"
-    ],
     "https://github.com/osh1996/SeriesElasticActuator.git:seaLinkGen.groovy": [
       "https://github.com/osh1996/SeriesElasticActuator.git",
       "seaLinkGen.groovy"
-    ],
-    "https://github.com/osh1996/SeriesElasticActuator.git:seaArm.xml": [
-      "https://github.com/osh1996/SeriesElasticActuator.git",
-      "seaArm.xml"
     ]
   },
   "BowlerStudioConfigs": {
