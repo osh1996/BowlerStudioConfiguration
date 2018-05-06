@@ -7,11 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/osh1996/NASACurisoity.git:NASA_Curiosity.xml": [
+      "https://github.com/osh1996/NASACurisoity.git",
+      "NASA_Curiosity.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.24.0",
     "fontsize": 12.0,
-    "skinBranch": "0.24.0",
+    "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
