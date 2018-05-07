@@ -8,13 +8,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/osh1996/NASACurisoity.git:steer_wheel.groovy": [
+      "https://github.com/osh1996/NASACurisoity.git",
+      "steer_wheel.groovy"
+    ],
     "https://github.com/osh1996/NASACurisoity.git:fixed_wheel.groovy": [
       "https://github.com/osh1996/NASACurisoity.git",
       "fixed_wheel.groovy"
-    ],
-    "https://github.com/osh1996/NASACurisoity.git:arm.groovy": [
-      "https://github.com/osh1996/NASACurisoity.git",
-      "arm.groovy"
     ],
     "https://github.com/osh1996/NASACurisoity.git:NASA_Curiosity.xml": [
       "https://github.com/osh1996/NASACurisoity.git",
